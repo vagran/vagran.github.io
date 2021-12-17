@@ -1,15 +1,11 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on My homepage</title>
     <link>https://vagran.github.io/site/post/</link>
     <description>Recent content in Posts on My homepage</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Mon, 20 Mar 2017 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://vagran.github.io/site/post/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Mon, 20 Mar 2017 00:00:00 +0000</lastBuildDate><atom:link href="https://vagran.github.io/site/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Photoswipe Gallery Sample</title>
       <link>https://vagran.github.io/site/post/2017-03-20-photoswipe-gallery-sample/</link>
@@ -17,7 +13,6 @@
       
       <guid>https://vagran.github.io/site/post/2017-03-20-photoswipe-gallery-sample/</guid>
       <description>&lt;p&gt;Beautiful Hugo adds a few custom shortcodes created by &lt;a href=&#34;https://www.liwen.id.au/heg/&#34;&gt;Li-Wen Yip&lt;/a&gt; and &lt;a href=&#34;https://github.com/GjjvdBurg/HugoPhotoSwipe&#34;&gt;Gert-Jan van den Berg&lt;/a&gt; for making galleries with &lt;a href=&#34;http://photoswipe.com&#34;&gt;PhotoSwipe&lt;/a&gt; .&lt;/p&gt;
-
 &lt;p&gt;
 
 &lt;div class=&#34;gallery caption-position-bottom caption-effect-fade hover-effect-zoom hover-transition&#34; itemscope itemtype=&#34;http://schema.org/ImageGallery&#34;&gt;
@@ -139,11 +134,9 @@
       
       <guid>https://vagran.github.io/site/post/2017-03-05-math-sample/</guid>
       <description>&lt;p&gt;KaTeX can be used to generate complex math formulas server-side.&lt;/p&gt;
-
 &lt;p&gt;$$
 \phi = \frac{(1+\sqrt{5})}{2} = 1.6180339887\cdots
 $$&lt;/p&gt;
-
 &lt;p&gt;Additional details can be found on &lt;a href=&#34;https://github.com/Khan/KaTeX&#34;&gt;GitHub&lt;/a&gt; or on the &lt;a href=&#34;http://tiddlywiki.com/plugins/tiddlywiki/katex/&#34;&gt;Wiki&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
     

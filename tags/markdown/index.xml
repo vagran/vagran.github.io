@@ -1,15 +1,11 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Markdown on My homepage</title>
+    <title>markdown on My homepage</title>
     <link>https://vagran.github.io/site/tags/markdown/</link>
-    <description>Recent content in Markdown on My homepage</description>
+    <description>Recent content in markdown on My homepage</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Fri, 20 Feb 2015 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://vagran.github.io/site/tags/markdown/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Fri, 20 Feb 2015 00:00:00 +0000</lastBuildDate><atom:link href="https://vagran.github.io/site/tags/markdown/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Test markdown</title>
       <link>https://vagran.github.io/site/post/2015-02-20-test-markdown/</link>

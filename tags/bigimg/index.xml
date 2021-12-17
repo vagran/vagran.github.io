@@ -1,15 +1,11 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Bigimg on My homepage</title>
+    <title>bigimg on My homepage</title>
     <link>https://vagran.github.io/site/tags/bigimg/</link>
-    <description>Recent content in Bigimg on My homepage</description>
+    <description>Recent content in bigimg on My homepage</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Tue, 07 Mar 2017 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://vagran.github.io/site/tags/bigimg/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Tue, 07 Mar 2017 00:00:00 +0000</lastBuildDate><atom:link href="https://vagran.github.io/site/tags/bigimg/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Big Image Sample</title>
       <link>https://vagran.github.io/site/post/2017-03-07-bigimg-sample/</link>
