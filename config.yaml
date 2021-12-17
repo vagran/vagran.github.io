@@ -1,0 +1,36 @@
+baseurl: "https://vagran.github.io/site/"
+contentdir: content
+layoutdir: layouts
+publishdir: site
+title: Dev's den
+canonifyurls: true
+DefaultContentLanguage: en
+theme: beautifulhugo
+metaDataFormat: yaml
+pygmentsUseClasses: true
+pygmentCodeFences: true
+googleAnalytics: G-YLE7JLHPKG
+
+Params:
+  subtitle: Indie developer's homepage
+  logo: logo.svg
+  favicon: favicon.svg
+  dateFormat: "January 2, 2006"
+  commit: false
+  rss: true
+  comments: true
+
+Author:
+  name: vagran
+  email: artyom.lebedev@gmail.com
+  github: vagran
+  stackoverflow: users/3635669/vagran
+
+menu:
+  main:
+    - name: Projects
+      url: projects
+      weight: 1
+    - name: Tags
+      url: tags
+      weight: 3

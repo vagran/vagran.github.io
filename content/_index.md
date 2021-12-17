@@ -1,4 +1,6 @@
-## Front Page Content
+---
+date: 2021-12-17
+---
 
-Under construction
+My most noticeable public projects mentioned here.
 

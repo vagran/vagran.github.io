@@ -28,8 +28,11 @@
         </ul>
         <p class="credits copyright text-muted">
           {{ .Site.Author.name }}
+
+          {{ if .PublishDate }}
           &nbsp;&bull;&nbsp;
-          {{ .Site.LastChange.Format "2006" }}
+          {{ .PublishDate.Format "2006" }}
+          {{ end }}
 
           {{ if .Site.Title }}
             &nbsp;&bull;&nbsp;
