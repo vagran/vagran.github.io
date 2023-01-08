@@ -1,5 +1,5 @@
 ---
-title: panels-layouts
+title: Blender-like panels and tabs layout
 subtitle:
 tags: ["javascript", "panels", "tabs"]
 date: 2023-01-08
