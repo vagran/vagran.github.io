@@ -2,99 +2,99 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Dev&#39;s den</title>
-    <link>https://vagran.github.io/site/tags/</link>
+    <link>https://vagran.github.io/tags/</link>
     <description>Recent content in Tags on Dev&#39;s den</description>
     <generator>Hugo -- gohugo.io</generator>
     <managingEditor>artyom.lebedev@gmail.com (vagran)</managingEditor>
     <webMaster>artyom.lebedev@gmail.com (vagran)</webMaster>
-    <lastBuildDate>Sun, 08 Jan 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://vagran.github.io/site/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 08 Jan 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://vagran.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>javascript</title>
-      <link>https://vagran.github.io/site/tags/javascript/</link>
+      <link>https://vagran.github.io/tags/javascript/</link>
       <pubDate>Sun, 08 Jan 2023 00:00:00 +0000</pubDate>
       <author>artyom.lebedev@gmail.com (vagran)</author>
-      <guid>https://vagran.github.io/site/tags/javascript/</guid>
+      <guid>https://vagran.github.io/tags/javascript/</guid>
       <description></description>
     </item>
     
     <item>
       <title>panels</title>
-      <link>https://vagran.github.io/site/tags/panels/</link>
+      <link>https://vagran.github.io/tags/panels/</link>
       <pubDate>Sun, 08 Jan 2023 00:00:00 +0000</pubDate>
       <author>artyom.lebedev@gmail.com (vagran)</author>
-      <guid>https://vagran.github.io/site/tags/panels/</guid>
+      <guid>https://vagran.github.io/tags/panels/</guid>
       <description></description>
     </item>
     
     <item>
       <title>tabs</title>
-      <link>https://vagran.github.io/site/tags/tabs/</link>
+      <link>https://vagran.github.io/tags/tabs/</link>
       <pubDate>Sun, 08 Jan 2023 00:00:00 +0000</pubDate>
       <author>artyom.lebedev@gmail.com (vagran)</author>
-      <guid>https://vagran.github.io/site/tags/tabs/</guid>
+      <guid>https://vagran.github.io/tags/tabs/</guid>
       <description></description>
     </item>
     
     <item>
       <title>c&#43;&#43;</title>
-      <link>https://vagran.github.io/site/tags/c&#43;&#43;/</link>
+      <link>https://vagran.github.io/tags/c&#43;&#43;/</link>
       <pubDate>Fri, 17 Dec 2021 00:00:00 +0000</pubDate>
       <author>artyom.lebedev@gmail.com (vagran)</author>
-      <guid>https://vagran.github.io/site/tags/c&#43;&#43;/</guid>
+      <guid>https://vagran.github.io/tags/c&#43;&#43;/</guid>
       <description></description>
     </item>
     
     <item>
       <title>c&#43;&#43;-modules</title>
-      <link>https://vagran.github.io/site/tags/c&#43;&#43;-modules/</link>
+      <link>https://vagran.github.io/tags/c&#43;&#43;-modules/</link>
       <pubDate>Fri, 17 Dec 2021 00:00:00 +0000</pubDate>
       <author>artyom.lebedev@gmail.com (vagran)</author>
-      <guid>https://vagran.github.io/site/tags/c&#43;&#43;-modules/</guid>
+      <guid>https://vagran.github.io/tags/c&#43;&#43;-modules/</guid>
       <description></description>
     </item>
     
     <item>
       <title>diy</title>
-      <link>https://vagran.github.io/site/tags/diy/</link>
+      <link>https://vagran.github.io/tags/diy/</link>
       <pubDate>Fri, 17 Dec 2021 00:00:00 +0000</pubDate>
       <author>artyom.lebedev@gmail.com (vagran)</author>
-      <guid>https://vagran.github.io/site/tags/diy/</guid>
+      <guid>https://vagran.github.io/tags/diy/</guid>
       <description></description>
     </item>
     
     <item>
       <title>dxf</title>
-      <link>https://vagran.github.io/site/tags/dxf/</link>
+      <link>https://vagran.github.io/tags/dxf/</link>
       <pubDate>Fri, 17 Dec 2021 00:00:00 +0000</pubDate>
       <author>artyom.lebedev@gmail.com (vagran)</author>
-      <guid>https://vagran.github.io/site/tags/dxf/</guid>
+      <guid>https://vagran.github.io/tags/dxf/</guid>
       <description></description>
     </item>
     
     <item>
       <title>gradle</title>
-      <link>https://vagran.github.io/site/tags/gradle/</link>
+      <link>https://vagran.github.io/tags/gradle/</link>
       <pubDate>Fri, 17 Dec 2021 00:00:00 +0000</pubDate>
       <author>artyom.lebedev@gmail.com (vagran)</author>
-      <guid>https://vagran.github.io/site/tags/gradle/</guid>
+      <guid>https://vagran.github.io/tags/gradle/</guid>
       <description></description>
     </item>
     
     <item>
       <title>hydroponics</title>
-      <link>https://vagran.github.io/site/tags/hydroponics/</link>
+      <link>https://vagran.github.io/tags/hydroponics/</link>
       <pubDate>Fri, 17 Dec 2021 00:00:00 +0000</pubDate>
       <author>artyom.lebedev@gmail.com (vagran)</author>
-      <guid>https://vagran.github.io/site/tags/hydroponics/</guid>
+      <guid>https://vagran.github.io/tags/hydroponics/</guid>
       <description></description>
     </item>
     
     <item>
       <title>webgl</title>
-      <link>https://vagran.github.io/site/tags/webgl/</link>
+      <link>https://vagran.github.io/tags/webgl/</link>
       <pubDate>Fri, 17 Dec 2021 00:00:00 +0000</pubDate>
       <author>artyom.lebedev@gmail.com (vagran)</author>
-      <guid>https://vagran.github.io/site/tags/webgl/</guid>
+      <guid>https://vagran.github.io/tags/webgl/</guid>
       <description></description>
     </item>
     
