@@ -2,6 +2,24 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://vagran.github.io/site/tags/javascript/</loc>
+    <lastmod>2023-01-08T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://vagran.github.io/site/tags/panels/</loc>
+    <lastmod>2023-01-08T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://vagran.github.io/site/projects/panels-layout/</loc>
+    <lastmod>2023-01-08T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://vagran.github.io/site/projects/</loc>
+    <lastmod>2023-01-08T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://vagran.github.io/site/tags/tabs/</loc>
+    <lastmod>2023-01-08T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://vagran.github.io/site/tags/</loc>
+    <lastmod>2023-01-08T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://vagran.github.io/site/</loc>
     <lastmod>2021-12-17T00:00:00+00:00</lastmod>
   </url><url>
@@ -27,15 +45,6 @@
     <lastmod>2021-12-17T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://vagran.github.io/site/tags/hydroponics/</loc>
-    <lastmod>2021-12-17T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://vagran.github.io/site/tags/javascript/</loc>
-    <lastmod>2021-12-17T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://vagran.github.io/site/projects/</loc>
-    <lastmod>2021-12-17T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://vagran.github.io/site/tags/</loc>
     <lastmod>2021-12-17T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://vagran.github.io/site/projects/hydroponics-v1/</loc>
