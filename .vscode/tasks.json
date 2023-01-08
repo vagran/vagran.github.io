@@ -13,6 +13,11 @@
             "type": "process",
             "command": "hugo",
             "args": ["server", "--disableFastRender"],
+        },
+        {
+            "label": "Publish",
+            "type": "shell",
+            "command": "git subtree push --prefix site origin gh-pages"
         }
     ]
 }
