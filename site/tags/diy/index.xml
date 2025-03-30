@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Diy on Dev&#39;s den</title>
-    <link>http://localhost:1313/tags/diy/</link>
+    <link>https://vagran.github.io/tags/diy/</link>
     <description>Recent content in Diy on Dev&#39;s den</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Fri, 17 Dec 2021 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/diy/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://vagran.github.io/tags/diy/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Tiny home hydroponics</title>
-      <link>http://localhost:1313/projects/hydroponics-v1/</link>
+      <link>https://vagran.github.io/projects/hydroponics-v1/</link>
       <pubDate>Fri, 17 Dec 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/projects/hydroponics-v1/</guid>
+      <guid>https://vagran.github.io/projects/hydroponics-v1/</guid>
       <description>&lt;p&gt;This funny project was started both for having fun with some &amp;ldquo;biotech&amp;rdquo; and with relatively new for&#xA;those times C++11 standard, especially regarding its usage possibility in MCUs. This ended with&#xA;fully automated home hydroponics system.  There is &lt;a href=&#34;https://habr.com/ru/post/385135/&#34;&gt;an article&lt;/a&gt;&#xA;(in Russian) about this project.&lt;/p&gt;&#xA;&lt;p&gt;I have a dream about version 2. This time it should have a bit larger scale and more serious&#xA;approach to &amp;ldquo;biotech&amp;rdquo; part (tomatoes from version 1 had terrible taste). But still no time to&#xA;implement all new ideas.&lt;/p&gt;&#xA;&lt;a href=&#34;https://github.com/vagran/hydroponics&#34;&gt;&#xA;&lt;span class=&#34;fa-stack fa-lg&#34;&gt;&#xA;    &lt;i class=&#34;fa fa-circle fa-stack-2x&#34;&gt;&lt;/i&gt;&#xA;    &lt;i class=&#34;fab fa-github fa-stack-1x fa-inverse&#34;&gt;&lt;/i&gt;&#xA;&lt;/span&gt;&#xA;GitHub repo &lt;i&gt;vagran/hydroponics&lt;/i&gt;&#xA;&lt;/a&gt;</description>
     </item>
   </channel>
