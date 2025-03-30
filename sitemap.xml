@@ -2,72 +2,72 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/projects/gateforge/</loc>
+    <loc>https://vagran.github.io/projects/gateforge/</loc>
     <lastmod>2025-03-30T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/projects/</loc>
+    <loc>https://vagran.github.io/projects/</loc>
     <lastmod>2025-03-30T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/python/</loc>
+    <loc>https://vagran.github.io/tags/python/</loc>
     <lastmod>2025-03-30T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/risc-v/</loc>
+    <loc>https://vagran.github.io/tags/risc-v/</loc>
     <lastmod>2025-03-30T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/rtl/</loc>
+    <loc>https://vagran.github.io/tags/rtl/</loc>
     <lastmod>2025-03-30T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>https://vagran.github.io/tags/</loc>
     <lastmod>2025-03-30T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/verilog/</loc>
+    <loc>https://vagran.github.io/tags/verilog/</loc>
     <lastmod>2025-03-30T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/projects/panels-layout/</loc>
+    <loc>https://vagran.github.io/projects/panels-layout/</loc>
     <lastmod>2023-01-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/javascript/</loc>
+    <loc>https://vagran.github.io/tags/javascript/</loc>
     <lastmod>2023-01-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/panels/</loc>
+    <loc>https://vagran.github.io/tags/panels/</loc>
     <lastmod>2023-01-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/tabs/</loc>
+    <loc>https://vagran.github.io/tags/tabs/</loc>
     <lastmod>2023-01-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/</loc>
+    <loc>https://vagran.github.io/</loc>
     <lastmod>2021-12-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/projects/adk-cpp-gradle-plugin/</loc>
+    <loc>https://vagran.github.io/projects/adk-cpp-gradle-plugin/</loc>
     <lastmod>2021-12-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/c&#43;&#43;/</loc>
+    <loc>https://vagran.github.io/tags/c&#43;&#43;/</loc>
     <lastmod>2021-12-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/c&#43;&#43;-modules/</loc>
+    <loc>https://vagran.github.io/tags/c&#43;&#43;-modules/</loc>
     <lastmod>2021-12-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/diy/</loc>
+    <loc>https://vagran.github.io/tags/diy/</loc>
     <lastmod>2021-12-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/dxf/</loc>
+    <loc>https://vagran.github.io/tags/dxf/</loc>
     <lastmod>2021-12-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/projects/dxf-viewer/</loc>
+    <loc>https://vagran.github.io/projects/dxf-viewer/</loc>
     <lastmod>2021-12-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/gradle/</loc>
+    <loc>https://vagran.github.io/tags/gradle/</loc>
     <lastmod>2021-12-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/hydroponics/</loc>
+    <loc>https://vagran.github.io/tags/hydroponics/</loc>
     <lastmod>2021-12-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/projects/hydroponics-v1/</loc>
+    <loc>https://vagran.github.io/projects/hydroponics-v1/</loc>
     <lastmod>2021-12-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/webgl/</loc>
+    <loc>https://vagran.github.io/tags/webgl/</loc>
     <lastmod>2021-12-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>https://vagran.github.io/categories/</loc>
   </url>
 </urlset>
