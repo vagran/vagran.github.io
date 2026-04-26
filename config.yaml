@@ -19,12 +19,11 @@ Params:
   commit: false
   rss: true
   comments: true
-
-Author:
-  name: vagran
-  email: artyom.lebedev@gmail.com
-  github: vagran
-  stackoverflow: users/3635669/vagran
+  author:
+    name: vagran
+    email: artyom.lebedev@gmail.com
+    github: vagran
+    stackoverflow: users/3635669/vagran
 
 menu:
   main:
