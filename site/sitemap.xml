@@ -2,10 +2,34 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://vagran.github.io/projects/gateforge/</loc>
-    <lastmod>2025-03-30T00:00:00+00:00</lastmod>
+    <loc>https://vagran.github.io/tags/c&#43;&#43;/</loc>
+    <lastmod>2026-04-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://vagran.github.io/tags/c&#43;&#43;20/</loc>
+    <lastmod>2026-04-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://vagran.github.io/tags/coroutines/</loc>
+    <lastmod>2026-04-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://vagran.github.io/tags/embedded/</loc>
+    <lastmod>2026-04-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://vagran.github.io/tags/mcu/</loc>
+    <lastmod>2026-04-26T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://vagran.github.io/projects/</loc>
+    <lastmod>2026-04-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://vagran.github.io/projects/pulse/</loc>
+    <lastmod>2026-04-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://vagran.github.io/tags/stm32/</loc>
+    <lastmod>2026-04-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://vagran.github.io/tags/</loc>
+    <lastmod>2026-04-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://vagran.github.io/projects/gateforge/</loc>
     <lastmod>2025-03-30T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://vagran.github.io/tags/python/</loc>
@@ -15,9 +39,6 @@
     <lastmod>2025-03-30T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://vagran.github.io/tags/rtl/</loc>
-    <lastmod>2025-03-30T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://vagran.github.io/tags/</loc>
     <lastmod>2025-03-30T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://vagran.github.io/tags/verilog/</loc>
@@ -39,9 +60,6 @@
     <lastmod>2021-12-17T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://vagran.github.io/projects/adk-cpp-gradle-plugin/</loc>
-    <lastmod>2021-12-17T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://vagran.github.io/tags/c&#43;&#43;/</loc>
     <lastmod>2021-12-17T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://vagran.github.io/tags/c&#43;&#43;-modules/</loc>

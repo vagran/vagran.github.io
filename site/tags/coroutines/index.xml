@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Coroutines on Dev&#39;s den</title>
+    <link>https://vagran.github.io/tags/coroutines/</link>
+    <description>Recent content in Coroutines on Dev&#39;s den</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <managingEditor>artyom.lebedev@gmail.com (vagran)</managingEditor>
+    <webMaster>artyom.lebedev@gmail.com (vagran)</webMaster>
+    <lastBuildDate>Sun, 26 Apr 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://vagran.github.io/tags/coroutines/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Pulse C&#43;&#43; coroutines framework for embedded applications</title>
+      <link>https://vagran.github.io/projects/pulse/</link>
+      <pubDate>Sun, 26 Apr 2026 00:00:00 +0000</pubDate><author>artyom.lebedev@gmail.com (vagran)</author>
+      <guid>https://vagran.github.io/projects/pulse/</guid>
+      <description>&lt;a href=&#34;https://github.com/vagran/pulse&#34;&gt;&#xA;&lt;span class=&#34;fa-stack fa-lg&#34;&gt;&#xA;    &lt;i class=&#34;fa fa-circle fa-stack-2x&#34;&gt;&lt;/i&gt;&#xA;    &lt;i class=&#34;fab fa-github fa-stack-1x fa-inverse&#34;&gt;&lt;/i&gt;&#xA;&lt;/span&gt;&#xA;GitHub repo &lt;i&gt;vagran/pulse&lt;/i&gt;&#xA;&lt;/a&gt;&#xA;&lt;p&gt;One day I found that I still cannot use C++20 coroutines in my embedded project (targeted to STM32&#xA;MCU). You can do it in Rust using Embassy framework, but no same possibility for C++, despite that&#xA;C++ coroutines already exist for a long time. So there wasn&amp;rsquo;t other way than writing one.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

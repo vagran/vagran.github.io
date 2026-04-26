@@ -6,6 +6,8 @@
     <description>Recent content in Categories on Dev&#39;s den</description>
     <generator>Hugo</generator>
     <language>en</language>
+    <managingEditor>artyom.lebedev@gmail.com (vagran)</managingEditor>
+    <webMaster>artyom.lebedev@gmail.com (vagran)</webMaster>
     <atom:link href="https://vagran.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
