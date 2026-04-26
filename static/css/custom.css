@@ -1,0 +1,10 @@
+.github-repo-link, .github-repo-link:visited {
+    color: #404040;
+}
+.github-repo-link:hover, .github-repo-link:focus {
+    color: #0085a1;
+    text-decoration: none;
+}
+@media (prefers-color-scheme: dark) {
+    .github-repo-link, .github-repo-link:visited { color: #AAA; }
+}
