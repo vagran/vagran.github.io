@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Coroutines on Dev&#39;s den</title>
-    <link>https://vagran.github.io/tags/coroutines/</link>
-    <description>Recent content in Coroutines on Dev&#39;s den</description>
+    <title>NRF52840 on Dev&#39;s den</title>
+    <link>https://vagran.github.io/tags/nrf52840/</link>
+    <description>Recent content in NRF52840 on Dev&#39;s den</description>
     <generator>Hugo</generator>
     <language>en</language>
     <managingEditor>artyom.lebedev@gmail.com (vagran)</managingEditor>
     <webMaster>artyom.lebedev@gmail.com (vagran)</webMaster>
     <lastBuildDate>Sun, 26 Apr 2026 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://vagran.github.io/tags/coroutines/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://vagran.github.io/tags/nrf52840/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>C&#43;&#43;20 coroutines framework for embedded applications (STM32, nRF52840)</title>
       <link>https://vagran.github.io/projects/pulse/</link>
